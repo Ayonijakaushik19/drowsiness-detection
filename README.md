@@ -44,3 +44,11 @@ It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, A
 For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
 
 
+<h3> Contributions are welcomed!</h3>
+First create an issue if you want to add new feauture or want to improve existing code. After that create a Pull Request. 
+
+<h3> Raise the PR to the TEST branch !</h3>
+
+<div> </div>
+
+Make a folder named after `Test` , if the code is platform specific then please create subfolder named to that Operating system within that language folder. For example `Test/Linux`. Add README.md in it telling about compilation, installing dependencies and some screenshots of the updates. 
