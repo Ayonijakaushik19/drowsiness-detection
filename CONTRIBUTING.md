@@ -5,8 +5,6 @@ Hey there!
 Glad to have your here. Appreciate you for choosing this project.
 Here are some guidelines about contributing to the project that will surely make your journey seem effortless.
 
-It would be really appreciable if you refer to the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) file before making any contributions. Thank You . 
-
 Let's get started then!
 
 ## HOW TO CONTRIBUTE
