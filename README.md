@@ -52,3 +52,5 @@ First create an issue if you want to add new feauture or want to improve existin
 <div> </div>
 
 Make a folder named after `Test` , if the code is platform specific then please create subfolder named to that Operating system within that language folder. For example `Test/Linux`. Add README.md in it telling about compilation, installing dependencies and some screenshots of the updates. 
+
+Join the Slack channel for discussions 👋 : [JOIN NOW](https://join.slack.com/t/crosswocproject/shared_invite/zt-m8x1cuc3-CXizvRk2kuCEqPnwkVjwNw)
