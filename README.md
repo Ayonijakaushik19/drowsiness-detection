@@ -90,6 +90,23 @@ After activating the virtual environment run :
 $ python Drowsiness_Detection.py
 ```
 
+### Input
+
+We can run the programme for live detection or even for a given video file (**.avi file**).
+
+**after running the programme**
+
+    press 0 for live detection.
+
+Or
+
+    press 1 to input a video file
+    Enter the path :
+
+    example path:(D:\Videos\testfile.avi)
+
+**The input video file must be of .avi format**
+
 ### Description
 
 A computer vision system that can automatically detect driver drowsiness in a real-time video stream and then play an alarm if the driver appears to be drowsy.

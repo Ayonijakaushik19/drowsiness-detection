@@ -10,7 +10,11 @@ def eye_aspect_ratio(eye):
 	C = distance.euclidean(eye[0], eye[3])
 	ear = (A + B) / (2.0 * C)
 	return ear
-	
+
+path = 0
+press = int(input("Press 0 for live detection OR Press 1 to input a video : "))
+if press == 1:
+	path = input("Enter the file path : ")	
 thresh = 0.25
 frame_check = 20
 detect = dlib.get_frontal_face_detector()
@@ -18,7 +22,7 @@ predict = dlib.shape_predictor(".\shape_predictor_68_face_landmarks.dat")# Dat f
 
 (lStart, lEnd) = face_utils.FACIAL_LANDMARKS_68_IDXS["left_eye"]
 (rStart, rEnd) = face_utils.FACIAL_LANDMARKS_68_IDXS["right_eye"]
-cap=cv2.VideoCapture(0)
+cap=cv2.VideoCapture(path)
 flag=0
 while True:
 	ret, frame=cap.read()
