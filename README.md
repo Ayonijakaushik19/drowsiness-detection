@@ -8,19 +8,41 @@ This can be used by riders who tend to drive for a longer period of time that ma
 
 ### Code Requirements
 
-The example code already has a Virtual Python Environment (in **drowsiness_detection_venv** Folder). Activate the virtual environment before running the programme.
+The example code is in Python (version 2.7 or higher will work).
+
+#### Clone the repository
+
+```javascript
+$ git clone https://github.com/dhrubajyoti89/drowsiness-detection.git
+```
+
+#### Open the drowsiness-detection Directory
+
+```javascript
+$ cd drowsiness-detection
+```
+
+#### Make a virtual environment
+
+```javascript
+$ pip install virtualenv
+```
+
+```javascript
+$ virtualenv drowsiness_detection_venv
+```
 
 ```javascript
 $ cd drowsiness_detection_venv
 ```
 
-#### For Mac & Linux
+#### Activate the virtual environment for Mac & Linux
 
 ```javascript
 $ source Scripts/activate
 ```
 
-#### For Windows
+#### Activate the virtual environment for Windows
 
 ```javascript
 $ Scripts/activate
@@ -33,12 +55,32 @@ $ Scripts/activate
 3) import scipy
 4) import dlib
 
+>If you want to run through Jupiter Notebook :
+
+1) install ipykernel
+
+## prerequisites
+
 > dlib library has some prerequisites such as Cmake and some C++ libraries. These prerequisites are essential otherwise the programme may throw **RUN TIME ERRORS**.
 >
 >**For Windows :** 
 [Refer Here](https://medium.com/analytics-vidhya/how-to-install-dlib-library-for-python-in-windows-10-57348ba1117f)
 >
 >**For Mac and Linux :** [Refer Here](https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/)
+
+##### Go through the instructions in the above link and complete them first or else the below installation may throw errors
+
+#### Install the dependecies
+
+```javascript
+$ cd ..
+```
+
+```javascript
+$ pip install -r requirements.txt
+```
+
+>Be patient it may take some time.
 
 ### Run The Programme
 
