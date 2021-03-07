@@ -140,3 +140,11 @@ First create an issue if you want to add new feauture or want to improve existin
 Make a folder named after `Test` , if the code is platform specific then please create subfolder named to that Operating system within that language folder. For example `Test/Linux`. Add README.md in it telling about compilation, installing dependencies and some screenshots of the updates. 
 
 Join the Slack channel for discussions 👋 : [JOIN NOW](https://join.slack.com/t/crosswocproject/shared_invite/zt-m8x1cuc3-CXizvRk2kuCEqPnwkVjwNw)
+
+# Project Maintainer
+<table>
+  <tbody><tr>
+    <td align="center"><a href="https://github.com/dhrubajyoti89"><img alt="" src="https://avatars.githubusercontent.com/u/61685945?s=400&u=73c269ed8f223185ad995396042d6141e2147aec&v=4" width="130px;"><br><sub><b>
+ Dhruba Jyoti Chakraborty </b></sub></a><br><a href="" title="Code">💻 </a></td></a></td>
+  </tr>
+</tbody></table>
