@@ -141,6 +141,9 @@ Make a folder named after `Test` , if the code is platform specific then please 
 
 Join the Slack channel for discussions 👋 : [JOIN NOW](https://join.slack.com/t/crosswocproject/shared_invite/zt-m8x1cuc3-CXizvRk2kuCEqPnwkVjwNw)
 
+## This Project is under following Open-Source event(s)
+<a href="https://crosswoc.ieeedtu.in/"> <img src="https://crosswoc.ieeedtu.in/images/imgcw.png" width="400px"></a>
+
 # Project Maintainer
 <table>
   <tbody><tr>
