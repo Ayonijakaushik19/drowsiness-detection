@@ -1,5 +1,8 @@
-# Updated: 29:03:2021
+# Contribution Record
+Last Update: 29/03/2021
+
 ### Add your github profile links below!
+
 
 <table>
   <tbody><tr>
