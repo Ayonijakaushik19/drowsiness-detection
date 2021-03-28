@@ -1,4 +1,5 @@
-# Add your name and github link in the following table
+# Updated: 29:03:2021
+### Add your github profile links below!
 
 <table>
   <tbody><tr>
