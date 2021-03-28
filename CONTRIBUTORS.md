@@ -9,6 +9,6 @@
  Ashutosh Das </b></sub></a><br><a href="" title="Code">Score:14</a></td></a></td>
 
  <td align="center"><a href="https://github.com/kmryashasvi"><img alt="" src="https://avatars.githubusercontent.com/u/66861659?s=400&u=64fefa0d1dc0f089b0cdb61f10f3691ee24cd636&v=4" width="130px;"><br><sub><b>
- Yashasvi </b></sub></a><br><a href="" title="Code">💻 </a></td></a></td>
+ Yashasvi </b></sub></a><br><a href="" title="Code">Score: 4</a></td></a></td>
   </tr>
 </tbody></table>
